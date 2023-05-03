@@ -30,6 +30,30 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Potential Trailer</itunes:title>
+      <title>Coming soon: Potential</title>
+      <description>
+Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities. 
+
+Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Rose Industrial Physics Academy.
+      </description>
+      <enclosure 
+        length="22146265" 
+        type="audio/mpeg" 
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/05/Potential_Trailer_s1.mp3"
+      />     
+      <content:encoded>
+        <![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
+<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
+      </content:encoded>     
+      <guid>potpods1t</guid>
+      <pubDate>Thu, 27 Apr 2023 01:15:00 GMT</pubDate>
+      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>  
+    
+    <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -148,31 +172,6 @@ Featuring: York graduates Xanthe Edge, Natalie Greenwood and Calum Lennox, and L
       <itunes:duration>00:22:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>    
-
-    <item>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:season>1</itunes:season>
-      <itunes:title>Potential Trailer</itunes:title>
-      <title>Coming soon: Potential</title>
-      <description>
-Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities. 
-
-Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Rose Industrial Physics Academy.
-      </description>
-      <enclosure 
-        length="22146265" 
-        type="audio/mpeg" 
-        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/05/Potential_Trailer_s1.mp3"
-      />     
-      <content:encoded>
-        <![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded>     
-      <guid>potpods1t</guid>
-      <pubDate>Thu, 27 Apr 2023 01:15:00 GMT</pubDate>
-      <itunes:duration>00:22:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>  
 
 
   </channel>
