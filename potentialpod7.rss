@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  
+  <channel>
+    
+    <title>Potential: A Physics Careers Podcast</title>
+    <link>http://dev.wripa.ac.uk/potential</link>
+    <language>en-us</language>
+    <copyright>&#169; WRIPA</copyright>
+    <itunes:author>WRIPA</itunes:author>
+    <description>
+Potential is a careers podcast with a difference. In each episode, physics graduates share their stories about the good times, the hard times, the ups and the downs of starting a career. It’s a podcast about falling over, and then picking yourself back up again. It’s about finding your path, and then changing direction completely. If you're in the middle of your physics degree and wondering, "What do I do next?" ... we're here to help. 
+
+Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Rose Industrial Physics Academy.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>WRIPA</itunes:name>
+      <itunes:email>info@wripa.ac.uk</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://thekipstewart.github.io/TheKipStewart/Potential_show_art_3sm.png"
+    />
+    <itunes:category text="Science">
+      <itunes:category text="Physics"/>
+    </itunes:category>
+    <itunes:category text="Education">
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Potential: A Physics Careers Podcast</itunes:title>
+      <itunes:season>1</itunes:season>
+      <title>Potential: A Physics Careers Podcast</title>
+      <description>
+Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities. 
+
+Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Rose Industrial Physics Academy.
+      </description>
+      <enclosure 
+        length="2526898" 
+        type="audio/mpeg" 
+        href="https://thekipstewart.github.io/TheKipStewart/Potential_Trailer.mp3"
+      />     
+      <content:encoded>
+        <![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
+<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
+      </content:encoded>     
+      <guid>potpods1t</guid>
+      <pubDate>Thu, 27 Apr 2023 01:15:00 GMT</pubDate>
+      <itunes:duration>00:01:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>  
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>You're An Imposter</title>
+      <description>
+How on earth did I get into this degree? Why did anyone hire me for this job? I'm a total fraud — and one day they're going to realise, and throw me out. Sound familiar? You're not alone: pretty much everyone experiences Impostor Syndrome at some point. We've assembled a bunch of physics graduates who've been there, faced the self-doubt, and come through the other side. They're here to share their wisdom and tips for talking back to the voices of doubt. If they can do it, so can you. 
+
+Hosted and produced by Chris Stewart. 
+
+Featuring: York graduates Xanthe Edge, Natalie Greenwood and Calum Lennox, and Leeds graduates Nicola Brown, Jonathan Foster and Lottie Tant
+      </description>
+      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <enclosure 
+        length="22146265" 
+        type="audio/mp3" 
+        url="https://thekipstewart.github.io/TheKipStewart/Potential_Imposter_s1e1.mp3"
+      />
+      <content:encoded>
+        <![CDATA[<p>
+How on earth did I get into this degree? Why did anyone hire me for this job? I'm a total fraud — and one day they're going to realise, and throw me out. Sound familiar? You're not alone: pretty much everyone experiences Impostor Syndrome at some point. We've assembled a bunch of physics graduates who've been there, faced the self-doubt, and come through the other side. They're here to share their wisdom and tips for talking back to the voices of doubt. If they can do it, so can you. 
+        </p>
+<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
+      </content:encoded>
+      <guid>potpods1e1</guid>
+      <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
+      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>    
+
+  </channel>
+</rss>
