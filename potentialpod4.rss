@@ -61,7 +61,7 @@ Hosted and produced by Chris Stewart. Featuring: York graduates Sam Bourne and N
       <enclosure 
         length="24459417" 
         type="audio/mp3" 
-        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Advice_s1e5.mp3"
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Falling_s1e4.mp3"
       />
       <guid>potpods1e4</guid>
       <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
@@ -134,7 +134,9 @@ Hosted and produced by Chris Stewart. Featuring: York graduates Xanthe Edge, Nat
 
     <item>
       <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>1</itunes:season>
       <itunes:title>Potential Trailer</itunes:title>
+      <title>You've Got Potential!</title>
       <description>
 Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities. Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Rose Industrial Physics Academy.
       </description>
