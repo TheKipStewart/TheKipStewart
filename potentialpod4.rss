@@ -20,7 +20,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
       <itunes:email>info@wripa.ac.uk</itunes:email>
     </itunes:owner>
     <itunes:image
-      href="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/potential-logo-2.png"
+      href="https://thekipstewart.github.io/TheKipStewart/Potential_show_art_3.png"
     />
     <itunes:category text="Science">
       <itunes:category text="Physics"/>
@@ -201,7 +201,6 @@ How on earth did I get into this degree? Why did anyone hire me for this job? I'
       <itunes:duration>00:22:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>    
-
 
   </channel>
 </rss>
