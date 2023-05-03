@@ -20,7 +20,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
       <itunes:email>info@wripa.ac.uk</itunes:email>
     </itunes:owner>
     <itunes:image
-      href="https://thekipstewart.github.io/TheKipStewart/Potential_show_art_3.png"
+      href="https://thekipstewart.github.io/TheKipStewart/Potential_show_art_3sm.png"
     />
     <itunes:category text="Science">
       <itunes:category text="Physics"/>
@@ -31,7 +31,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     
     <item>
       <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:title>Potential Trailer</itunes:title>
+      <itunes:title>Potential: A Physics Careers Podcast</itunes:title>
       <itunes:season>1</itunes:season>
       <title>Potential: A Physics Careers Podcast</title>
       <description>
