@@ -27,37 +27,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     </itunes:category>
     <itunes:category text="Education">
     </itunes:category>
-    <itunes:explicit>false</itunes:explicit>
-    
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>You're An Imposter</title>
-      <description>
-How on earth did I get into this degree? Why did anyone hire me for this job? I'm a total fraud — and one day they're going to realise, and throw me out. Sound familiar? You're not alone: pretty much everyone experiences Impostor Syndrome at some point. We've assembled a bunch of physics graduates who've been there, faced the self-doubt, and come through the other side. They're here to share their wisdom and tips for talking back to the voices of doubt. If they can do it, so can you. 
-
-Hosted and produced by Chris Stewart. 
-
-Featuring: York graduates Xanthe Edge, Natalie Greenwood and Calum Lennox, and Leeds graduates Nicola Brown, Jonathan Foster and Lottie Tant
-      </description>
-      <link>href="http://dev.wripa.ac.uk/potential"</link>
-      <enclosure 
-        length="22146265" 
-        type="audio/mp3" 
-        url="https://thekipstewart.github.io/TheKipStewart/Potential_Imposter_s1e1.mp3"
-      />
-      <content:encoded>
-        <![CDATA[<p>
-How on earth did I get into this degree? Why did anyone hire me for this job? I'm a total fraud — and one day they're going to realise, and throw me out. Sound familiar? You're not alone: pretty much everyone experiences Impostor Syndrome at some point. We've assembled a bunch of physics graduates who've been there, faced the self-doubt, and come through the other side. They're here to share their wisdom and tips for talking back to the voices of doubt. If they can do it, so can you. 
-        </p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded>
-      <guid>potpods1e1</guid>
-      <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
-      <itunes:duration>00:22:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>   
+    <itunes:explicit>false</itunes:explicit>  
     
     <item>
       <itunes:episodeType>trailer</itunes:episodeType>
