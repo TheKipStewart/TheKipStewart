@@ -32,7 +32,8 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <item>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:title>Potential Trailer</itunes:title>
-      <title>Coming soon: Potential</title>
+      <itunes:season>1</itunes:season>
+      <title>Potential: A Physics Careers Podcast</title>
       <description>
 Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities. 
 
@@ -56,6 +57,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <title>You're An Imposter</title>
       <description>
 How on earth did I get into this degree? Why did anyone hire me for this job? I'm a total fraud — and one day they're going to realise, and throw me out. Sound familiar? You're not alone: pretty much everyone experiences Impostor Syndrome at some point. We've assembled a bunch of physics graduates who've been there, faced the self-doubt, and come through the other side. They're here to share their wisdom and tips for talking back to the voices of doubt. If they can do it, so can you. 
