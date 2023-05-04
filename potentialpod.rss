@@ -31,7 +31,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     
     <item>
       <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:title>Potential: A Physics Careers Podcast</itunes:title>
+      <itunes:title>Potential Trailer</itunes:title>
       <itunes:season>1</itunes:season>
       <title>Potential: A Physics Careers Podcast</title>
       <description>
@@ -39,11 +39,10 @@ Potential is all about navigating your way from physics degree to new career —
 
 Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Rose Industrial Physics Academy.
       </description>
-      <link>href="http://dev.wripa.ac.uk/potential"</link>
       <enclosure 
-        length="2526898" 
+        length="22146265" 
         type="audio/mpeg" 
-        href="https://thekipstewart.github.io/TheKipStewart/Potential_Trailer.mp3"
+        url="https://thekipstewart.github.io/TheKipStewart/Potential_Trailer.mp3"
       />     
       <content:encoded>
         <![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
@@ -51,7 +50,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
       </content:encoded>     
       <guid>potpods1t</guid>
       <pubDate>Thu, 27 Apr 2023 01:15:00 GMT</pubDate>
-      <itunes:duration>00:01:45</itunes:duration>
+      <itunes:duration>00:22:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>  
     
@@ -71,7 +70,7 @@ Featuring all our graduates: from Leeds, Nicola Brown, Jonathan Foster and Lotti
       <enclosure 
         length="24459417" 
         type="audio/mp3" 
-        url="https://thekipstewart.github.io/TheKipStewart/Potential_Advice_s1e5.mp3"
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Advice_s1e5.mp3"
       />
       <content:encoded>
         <![CDATA[<p>In this final episode of this season of Potential we ask our physics graduates, if they could sit down with their younger selves back in first or second year of university, what advice would they give? What have they learned since they graduated that might help? We collected all that advice into five buckets of wisdom — and who knows, maybe some of it will resonate with you too.</p>
@@ -129,7 +128,7 @@ Featuring: Leeds graduate Jonathan Foster, and York graduates Xanthe Edge, Natal
       <enclosure 
         length="22553253" 
         type="audio/mp3" 
-        url="https://thekipstewart.github.io/TheKipStewart/Potential_Change_s1e3.mp3"
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Change_s1e3.mp3"
       />
        <content:encoded>
         <![CDATA[<p>
@@ -159,7 +158,7 @@ Featuring: York graduates Calum Lennox and Harry Phillips, and Leeds graduate Lo
       <enclosure 
         length="29049556" 
         type="audio/mp3" 
-        url="https://thekipstewart.github.io/TheKipStewart/Potential_WITW_s1e2.mp3"
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_WITW_s1e2.mp3"
       />
       <content:encoded>
         <![CDATA[<p>
@@ -189,7 +188,7 @@ Featuring: York graduates Xanthe Edge, Natalie Greenwood and Calum Lennox, and L
       <enclosure 
         length="22146265" 
         type="audio/mp3" 
-        url="https://thekipstewart.github.io/TheKipStewart/Potential_Imposter_s1e1.mp3"
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/05/Potential_Imposter_s1e1.mp3"
       />
       <content:encoded>
         <![CDATA[<p>
@@ -201,7 +200,7 @@ How on earth did I get into this degree? Why did anyone hire me for this job? I'
       <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
       <itunes:duration>00:22:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-    </item>    
-
+    </item>   
+    
   </channel>
 </rss>
