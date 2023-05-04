@@ -29,6 +29,8 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     
+    <!-- TRAILER -->
+    
     <item>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:title>Potential Trailer</itunes:title>
@@ -53,7 +55,9 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
       <itunes:duration>00:22:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>  
-    
+       
+    <!-- EP 5 -->
+ 
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
@@ -81,7 +85,9 @@ Featuring all our graduates: from Leeds, Nicola Brown, Jonathan Foster and Lotti
       <itunes:duration>00:24:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-  
+         
+    <!-- EP 4 -->
+ 
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
@@ -111,7 +117,9 @@ Life doesn’t always go to plan. Big challenges can hit you out of nowhere and 
       <itunes:duration>00:01:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-
+       
+    <!-- EP 3 -->
+ 
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
@@ -141,7 +149,9 @@ Sometimes in life you start down a road, only to find it's a dead-end. Or there'
       <itunes:duration>00:23:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    
+           
+    <!-- EP 2 -->
+ 
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
@@ -171,7 +181,9 @@ Whether it's lugging a backpack over a summer break, or packing your life into b
       <itunes:duration>00:29:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-   
+          
+    <!-- EP 1 -->
+ 
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
