@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   
   <channel>
     
@@ -10,6 +9,10 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <language>en-us</language>
     <copyright>&#169; WRIPA</copyright>
     <itunes:author>WRIPA</itunes:author>
+    <itunes:owner>
+      <itunes:name>WRIPA</itunes:name>
+      <itunes:email>info@wripa.ac.uk</itunes:email>
+    </itunes:owner>
     <description>
 	<![CDATA[<p>Potential is a careers podcast with a difference. In each episode, physics graduates share their stories about the good times, the hard times, the ups and the downs of starting a career. It’s a podcast about falling over, and then picking yourself back up again. It’s about finding your path, and then changing direction completely. If you're in the middle of your physics degree and wondering, "What do I do next?" ... we're here to help.</p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
@@ -18,13 +21,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Rose Industrial Physics Academy.
     </itunes:summary>
     <itunes:type>serial</itunes:type>
-    <itunes:owner>
-      <itunes:name>WRIPA</itunes:name>
-      <itunes:email>info@wripa.ac.uk</itunes:email>
-    </itunes:owner>
-    <itunes:image
-      href="https://thekipstewart.github.io/TheKipStewart/Potential_show_art_blue_sm.png"
-    />
+    <itunes:image href="https://thekipstewart.github.io/TheKipStewart/Potential_show_art_blue_sm.png"/>
     <itunes:category text="Science">
       <itunes:category text="Physics"/>
     </itunes:category>
@@ -36,18 +33,16 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <!-- TRAILER -->
     
     <item>
-      <title>Potential Trailer: A Physics Careers Podcast</title>
+      <title>Potential Trailer: a physics careers podcast</title>
       <itunes:title>Potential Trailer</itunes:title>
+      <itunes:subtitle>A brand new physics careers podcast</itunes:subtitle>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <description>
  		<![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
       </description>
-      <content:encoded>
-        <![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded>
+      <link>http://dev.wripa.ac.uk/potential</link>
       <enclosure 
         length="22146265" 
         type="audio/mpeg" 
@@ -55,7 +50,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
       />     
       <guid>potpods1t</guid>
       <pubDate>Wed, 26 Apr 2023 01:15:00 GMT</pubDate>
-      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:duration>00:01:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>  
        
@@ -64,6 +59,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <item>
       <title>The Benefit Of Hindsight</title>
       <itunes:title>The Benefit Of Hindsight</itunes:title>
+      <itunes:subtitle>The collective wisdom of all our graduates</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -71,11 +67,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
         <![CDATA[<p>In this final episode of this season of Potential we ask our physics graduates, if they could sit down with their younger selves back in first or second year of university, what advice would they give? What have they learned since they graduated that might help? We collected all that advice into five buckets of wisdom — and who knows, maybe some of it will resonate with you too.</p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
       </description>
-      <content:encoded>
-        <![CDATA[<p>In this final episode of this season of Potential we ask our physics graduates, if they could sit down with their younger selves back in first or second year of university, what advice would they give? What have they learned since they graduated that might help? We collected all that advice into five buckets of wisdom — and who knows, maybe some of it will resonate with you too.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded> 
-      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <link>http://dev.wripa.ac.uk/potential</link>
       <enclosure 
         length="24459417" 
         type="audio/mp3" 
@@ -92,6 +84,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <item>
       <title>Falling Down</title>
 	  <itunes:title>Falling Down</itunes:title>
+	  <itunes:subtitle>Everyone falls down sometime. The trick us getting back up again.</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -99,11 +92,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
         <![CDATA[<p>Life doesn’t always go to plan. Big challenges can hit you out of nowhere and make you trip, sending you crashing to the ground. And then you have to find a way to pick yourself up, dust yourself off, and move forward again. In this episode we hear from three of our physics graduates who went through some seriously difficult times at university or in their early careers — and not only lived to tell the tale, but bounced back stronger as a result.</p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
       </description>
-      <content:encoded>
-        <![CDATA[<p>Life doesn’t always go to plan. Big challenges can hit you out of nowhere and make you trip, sending you crashing to the ground. And then you have to find a way to pick yourself up, dust yourself off, and move forward again. In this episode we hear from three of our physics graduates who went through some seriously difficult times at university or in their early careers — and not only lived to tell the tale, but bounced back stronger as a result.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded> 
-      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <link>http://dev.wripa.ac.uk/potential</link>
       <enclosure 
         length="2526898" 
         type="audio/mp3" 
@@ -120,6 +109,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <item>
       <title>Changing Direction</title>
       <itunes:title>Changing Direction</itunes:title>
+      <itunes:subtitle>It's great to have a road to follow, just don't ignore the paths off to the side.</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -127,11 +117,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
         <![CDATA[<p>Sometimes in life you start down a road, only to find it's a dead-end. Or there's a detour you have to take. Or you break down and have to stop for a while. In this episode we talk to physics graduates about unexpected changes in their careers, from shifting jobs to completely rethinking your whole life plan.</p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
       </description>
-      <content:encoded>
-        <![CDATA[<p>Sometimes in life you start down a road, only to find it's a dead-end. Or there's a detour you have to take. Or you break down and have to stop for a while. In this episode we talk to physics graduates about unexpected changes in their careers, from shifting jobs to completely rethinking your whole life plan.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded> 
-      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <link>http://dev.wripa.ac.uk/potential</link>
       <enclosure 
         length="22553253" 
         type="audio/mp3" 
@@ -148,6 +134,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <item>
       <title>Where In The World?</title>
       <itunes:title>Where In The World?</itunes:title>
+      <itunes:subtitle>Explore the world, broaden your horizons, and stretch your imagination.</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -155,11 +142,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
         <![CDATA[<p>Whether it's lugging a backpack over a summer break, or packing your life into boxes and moving around the world for a new job, travel is transformative. We speak to three physics graduates about the highs and lows of exploring the globe— for work, sure, but also for the challenge, the growth and the joy of immersing yourself in another culture.</p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
       </description>
-      <content:encoded>
-        <![CDATA[<p>Whether it's lugging a backpack over a summer break, or packing your life into boxes and moving around the world for a new job, travel is transformative. We speak to three physics graduates about the highs and lows of exploring the globe— for work, sure, but also for the challenge, the growth and the joy of immersing yourself in another culture.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded>
-      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <link>http://dev.wripa.ac.uk/potential</link>
       <enclosure 
         length="29049556" 
         type="audio/mp3" 
@@ -176,6 +159,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <item>
       <title>You're An Imposter</title>
       <itunes:title>You're An Imposter</itunes:title>
+      <itunes:subtitle>Everyone experiences a bit of doubt now and then.</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
@@ -183,11 +167,7 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
         <![CDATA[<p>How on earth did I get into this degree? Why did anyone hire me for this job? I'm a total fraud — and one day they're going to realise, and throw me out. Sound familiar? You're not alone: pretty much everyone experiences Impostor Syndrome at some point. We've assembled a bunch of physics graduates who've been there, faced the self-doubt, and come through the other side. They're here to share their wisdom and tips for talking back to the voices of doubt. If they can do it, so can you. </p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
       </description>
-      <content:encoded>
-        <![CDATA[<p>How on earth did I get into this degree? Why did anyone hire me for this job? I'm a total fraud — and one day they're going to realise, and throw me out. Sound familiar? You're not alone: pretty much everyone experiences Impostor Syndrome at some point. We've assembled a bunch of physics graduates who've been there, faced the self-doubt, and come through the other side. They're here to share their wisdom and tips for talking back to the voices of doubt. If they can do it, so can you. </p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded>
-      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <link>http://dev.wripa.ac.uk/potential</link>
       <enclosure 
         length="22146265" 
         type="audio/mp3" 
