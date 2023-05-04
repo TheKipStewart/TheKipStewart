@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   
   <channel>
     
@@ -38,10 +37,10 @@ Hosted and produced by Chris Stewart, and brought to you by WRIPA, the White Ros
     <item>
       <title>You're An Imposter</title>
       <itunes:title>You're An Imposter</itunes:title>
+      <itunes:subtitle>Everyone experiences a bit of doubt now and then.</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:subtitle>Everyone experiences a bit of doubt now and then.</itunes:subtitle>
+      <itunes:season>1</itunes:season> 
       <description>
         <![CDATA[<p>How on earth did I get into this degree? Why did anyone hire me for this job? I'm a total fraud — and one day they're going to realise, and throw me out. Sound familiar? You're not alone: pretty much everyone experiences Impostor Syndrome at some point. We've assembled a bunch of physics graduates who've been there, faced the self-doubt, and come through the other side. They're here to share their wisdom and tips for talking back to the voices of doubt. If they can do it, so can you. </p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
