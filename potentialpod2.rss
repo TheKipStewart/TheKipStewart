@@ -4,7 +4,8 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
   
   <channel>
     
-    <title>Potential: A Physics Careers Podcast</title>
+    <title>Potential</title>
+    <itunes:subtitle>A Physics Careers Podcast</itunes:subtitle>
     <link>http://dev.wripa.ac.uk/potential</link>
     <language>en-us</language>
     <copyright>&#169; WRIPA</copyright>
@@ -13,6 +14,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<![CDATA[<p>Potential is a careers podcast with a difference. In each episode, physics graduates share their stories about the good times, the hard times, the ups and the downs of starting a career. It’s a podcast about falling over, and then picking yourself back up again. It’s about finding your path, and then changing direction completely. If you're in the middle of your physics degree and wondering, "What do I do next?" ... we're here to help.</p>
 <p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
     </description>
+    <itunes:summary>Potential is a careers podcast with a difference. In each episode, physics graduates share their stories about the good times, the hard times, the ups and the downs of starting a career. It’s a podcast about falling over, and then picking yourself back up again. It’s about finding your path, and then changing direction completely. If you're in the middle of your physics degree and wondering, "What do I do next?" ... we're here to help.</p>
+Hosted and produced by Chris Stewart, and brought to you byWRIPA, the White Rose Industrial Physics Academy.
+    </itunes:summary>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
       <itunes:name>WRIPA</itunes:name>
