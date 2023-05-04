@@ -31,23 +31,23 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <!-- TRAILER -->
     
     <item>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:title>Potential Trailer</itunes:title>
-      <itunes:season>1</itunes:season>
       <title>Potential Trailer: A Physics Careers Podcast</title>
+      <itunes:title>Potential Trailer</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>1</itunes:season>
       <description>
  		<![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
+		<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
       </description>
+      <content:encoded>
+        <![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
+		<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
+      </content:encoded>
       <enclosure 
         length="22146265" 
         type="audio/mpeg" 
         url="https://thekipstewart.github.io/TheKipStewart/Potential_Trailer.mp3"
       />     
-      <content:encoded>
-        <![CDATA[<p>Potential is all about navigating your way from physics degree to new career — whatever that looks like for you! Featuring wise physics graduates from a network of UK universities.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded>     
       <guid>potpods1t</guid>
       <pubDate>Wed, 26 Apr 2023 01:15:00 GMT</pubDate>
       <itunes:duration>00:22:32</itunes:duration>
@@ -57,27 +57,25 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <!-- EP 5 -->
  
     <item>
+      <title>The Benefit Of Hindsight</title>
+      <itunes:title>The Benefit Of Hindsight</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
-      <title>The Benefit Of Hindsight</title>
       <description>
-In this final episode of this season of Potential we ask our physics graduates, if they could sit down with their younger selves back in first or second year of university, what advice would they give? What have they learned since they graduated that might help? We collected all that advice into five buckets of wisdom — and who knows, maybe some of it will resonate with you too.
-
-Hosted and produced by Chris Stewart. 
-
-Featuring all our graduates: from Leeds, Nicola Brown, Jonathan Foster and Lottie Tant; and from york, Sam Bourne, Xanthe Edge, Natalie Greenwood, Calum Lennox and Harry Phillips
+        <![CDATA[<p>In this final episode of this season of Potential we ask our physics graduates, if they could sit down with their younger selves back in first or second year of university, what advice would they give? What have they learned since they graduated that might help? We collected all that advice into five buckets of wisdom — and who knows, maybe some of it will resonate with you too.</p>
+		<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
       </description>
+      <content:encoded>
+        <![CDATA[<p>In this final episode of this season of Potential we ask our physics graduates, if they could sit down with their younger selves back in first or second year of university, what advice would they give? What have they learned since they graduated that might help? We collected all that advice into five buckets of wisdom — and who knows, maybe some of it will resonate with you too.</p>
+		<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
+      </content:encoded> 
       <link>href="http://dev.wripa.ac.uk/potential"</link>
       <enclosure 
         length="24459417" 
         type="audio/mp3" 
         url="https://thekipstewart.github.io/TheKipStewart/Potential_Advice_s1e5.mp3"
       />
-      <content:encoded>
-        <![CDATA[<p>In this final episode of this season of Potential we ask our physics graduates, if they could sit down with their younger selves back in first or second year of university, what advice would they give? What have they learned since they graduated that might help? We collected all that advice into five buckets of wisdom — and who knows, maybe some of it will resonate with you too.</p>
-<p>Hosted and produced by <a href="http://kipstewart.com">Chris Stewart</a>, and brought to you by <a href="http://wripa.ac.uk">WRIPA</a>, the White Rose Industrial Physics Academy.</p>]]>
-      </content:encoded> 
       <guid>potpods1e5</guid>
       <pubDate>Thu, 4 May 2023 13:00:00 EST</pubDate>
       <itunes:duration>00:24:56</itunes:duration>
